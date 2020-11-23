@@ -1,5 +1,4 @@
-:heart: 
-:orange_heart: 
+:heart:
 :yellow_heart: 
 :green_heart: 
 :blue_heart: 
@@ -7,7 +6,6 @@
 :blue_heart: 
 :green_heart: 
 :yellow_heart: 
-:orange_heart: 
 :heart:
 
 **welcome to my code repository!**
