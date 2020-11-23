@@ -10,6 +10,8 @@
 :orange_heart: 
 :heart:
 
+ - welcome to my code repository! -  
+
 <!--
 **NHNzhz/NHNzhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
