@@ -4,6 +4,7 @@
 :green_heart:
 :blue_heart:
 :purple_heart:
+:black_heart:
 :white_heart:
 
 
