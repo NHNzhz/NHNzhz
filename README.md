@@ -1,4 +1,4 @@
-&nbsp;&nbsp;:heart:  
+&nbsp;&nbsp;&nbsp;&nbsp;:heart:  
 &nbsp;&nbsp;:orange_heart:  
 &nbsp;:yellow_heart:  
 &nbsp;:green_heart:  
@@ -8,7 +8,7 @@
 &nbsp;:green_heart:  
 &nbsp;:yellow_heart:  
 &nbsp;&nbsp;:orange_heart:  
-&nbsp;&nbsp;:heart:
+&nbsp;&nbsp;&nbsp;&nbsp;:heart:
 
 <!--
 **NHNzhz/NHNzhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
