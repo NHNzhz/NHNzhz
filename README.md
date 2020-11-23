@@ -1,14 +1,8 @@
-:heart:
-:yellow_heart: 
-:green_heart: 
-:blue_heart: 
-:purple_heart: 
-:blue_heart: 
-:green_heart: 
-:yellow_heart: 
-:heart:
+:heart: :yellow_heart: :green_heart: :blue_heart: :purple_heart: :blue_heart: :green_heart: :yellow_heart: :heart:
 
-**welcome to my code repository!**
+**welcome to my code repository**
+
+:heart: :yellow_heart: :green_heart: :blue_heart: :purple_heart: :blue_heart: :green_heart: :yellow_heart: :heart:
 
 <!--
 **NHNzhz/NHNzhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
